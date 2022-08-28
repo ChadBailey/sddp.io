@@ -5,12 +5,12 @@ corrections until this banner is removed.
 
 [Quick Start](quickstart.md)
 
-The Steam Deck Documentation Project (SDDP) is a collaborative effort to create
-the best possible documentation to the Steam Deck. The goal is to inspire a new
-generation of loyal fans, tweakers, and modders of the Steam Deck and Linux at
-large.
+The Steam Deck Documentation Project (sddp.io) is a collaborative effort to
+create the best possible documentation to the Steam Deck. The goal is to inspire
+a new generation of loyal fans, tweakers, and modders of the Steam Deck and
+Linux at large.
 
-More specifically, SDDP aims to be:
+More specifically, sddp.io aims to be:
 
 - Collaborative
 - A "one stop shop" for all vital Steam Deck technical information
@@ -18,11 +18,12 @@ More specifically, SDDP aims to be:
 - Beginner friendly, but also expert friendly
 - A path to mastery for those who choose to take it
 
-> If you believe in the mission of SDDP please consider becoming a collaborator.
-> We need experts and newbies alike. If you find something to be confusing or
-> valuable think something is missing
-> [Open a bug](https://github.com/chadbailey/sddp/issues). My guarantee to you
-> is that you will never be rejected or made fun of for your honest feedback.
+> If you believe in the mission of sddp.io please consider becoming a
+> collaborator. We need experts and newbies alike. If you find something to be
+> confusing or valuable think something is missing
+> [Open a bug](https://github.com/chadbailey/sddp.io/issues). My guarantee to
+> you is that you will never be rejected or made fun of for your honest
+> feedback.
 
 ## Mission Statement
 

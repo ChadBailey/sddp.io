@@ -3,9 +3,9 @@
 !> This page is **under construction**, expect frequent major updates and
 corrections until this banner is removed.
 
-## SDDP Resources
+## sddp.io Resources
 
-1. [Homepage](github.com/chadbailey/sddp/)
+1. [Homepage](https://sddp.io)
 2. [Discord](#) (work in progress…)
 
 ## Official Valve Resources
