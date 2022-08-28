@@ -8,8 +8,8 @@ corrections until this banner is removed.
 > The Steam Deck requires USB-C PD of 45 watts
 
 USB-C has improved upon the USB specification in many ways. Among them is the
-ability to specify the _maximimum wattage that can be delivered_ known as USB-C
-PD or Power Delivery.
+ability to specify the _maximum wattage that can be delivered_ known as USB-C PD
+or Power Delivery.
 
 Since the Steam Deck requires 45 watts of PD, if you use a 100watt PD charger it
 will work and supply it the full power necessary. It will also not be any faster
