@@ -1,5 +1,4 @@
 - Site Navigation
-  - [Home](/)
   - [About sddp.io](about.md)
   - [Quick Start](quickstart.md)
   - [Accessories](accessories.md)

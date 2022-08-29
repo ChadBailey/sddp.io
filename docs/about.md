@@ -32,7 +32,7 @@ services listed are there strictly for the reader's benefit. If you are the
 owner of such a resource and wish to have it updated, added, or removed then
 please [Open an issue](https://github.com/chadbailey/sddp.io/issues).
 
-## Motivation
+## Why sddp.io exists
 
 I have a much longer explanation I could share, but I'll keep this (somewhat)
 brief. Perhaps someday I will share my full story…
@@ -76,7 +76,7 @@ they need to feed their curiosity.
 That is why I chose the Steam Deck for the only project of this kind I've ever
 decided to attempt.
 
-## Mission Statement
+## Mission statement
 
 > Ensure the Steam Deck's success as a platform in order to grow new loyal fans
 > of Linux and Open Source Software et all while creating an easy path towards
@@ -84,4 +84,5 @@ decided to attempt.
 >
 > Do this by offering a reliable repository of highly vetted documentation that
 > empowers users to extend the usefulness of the Steam Deck by creating Steam
-> Deck specific applications, utilities, workflows, and extensions.
+> Deck specific applications, utilities, workflows, modifications, and
+> extensions.
