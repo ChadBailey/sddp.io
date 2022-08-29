@@ -34,7 +34,9 @@
         hideSidebar: false,
         search: {
           maxAge: 86400000, // Expiration time, the default one day
-          paths: [], // or 'auto'
+          paths: 'auto', // or 'auto'
+          depth: 2, // Headline depth, 1 - 6
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
           // Localization
           placeholder: {
@@ -58,6 +60,8 @@
       }
     </script>
     <!-- Docsify v4 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
   </body>
 </html>
