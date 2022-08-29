@@ -1,4 +1,4 @@
-# Steam Deck Documentation Project Overview
+# Steam Deck Documentation Project
 
 !> This page is **under construction**, expect frequent major updates and
 corrections until this banner is removed.
@@ -25,9 +25,15 @@ More specifically, sddp.io aims to be:
 > you is that you will never be rejected or made fun of for your honest
 > feedback.
 
-## Mission Statement
+## Affiliations
 
-Another way of putting it is stated in the mission statement:
+sddp.io is not affiliated with Valve, Steam, or any of the products, websites,
+or services listed within. The only links to external products, websites, or
+services listed are there strictly for the reader's benefit. If you are the
+owner of such a resource and wish to have it updated, added, or removed then
+please [Open an issue](https://github.com/chadbailey/sddp.io/issues).
+
+## Mission Statement
 
 > Ensure the Steam Deck's success as a platform in order to grow new loyal fans
 > of Linux and Open Source Software et all while creating an easy path towards
