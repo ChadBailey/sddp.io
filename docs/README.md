@@ -20,10 +20,11 @@ More specifically, sddp.io aims to be:
 
 > If you believe in the mission of sddp.io please consider becoming a
 > collaborator. We need experts and newbies alike. If you find something to be
-> confusing or valuable think something is missing
-> [Open a bug](https://github.com/chadbailey/sddp.io/issues). My guarantee to
-> you is that you will never be rejected or made fun of for your honest
-> feedback.
+> confusing or think something is missing then
+> [open an issue](https://github.com/chadbailey/sddp.io/issues).
+>
+> My guarantee to you is that you will never be rejected or made fun of for your
+> honest feedback. Anyone who engages in such behavior will be handled promptly.
 
 ## Affiliations
 
