@@ -32,6 +32,20 @@
         loadSidebar: true,
         subMaxLevel: 3,
         hideSidebar: false,
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: [], // or 'auto'
+
+          // Localization
+          placeholder: {
+            '/': 'Type to search',
+          },
+
+          // Localization
+          noData: {
+            '/': 'No Results',
+          },
+        },
         themeable: {
           readyTransition: true, // default
           responsiveTables: true, // default
