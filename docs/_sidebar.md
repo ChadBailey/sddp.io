@@ -1,0 +1,9 @@
+- Site Navigation
+  - [Home](/)
+  - [About sddp.io](about.md)
+  - [Quick Start](quickstart.md)
+  - [Accessories](accessories.md)
+  - [Recipes](recipes.md)
+  - [Resources](resources.md)
+  - [Terminal Commands](terminal.md)
+  - [USB-C - Charging & Docking](usbc.md)
