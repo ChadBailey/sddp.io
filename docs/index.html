@@ -27,7 +27,8 @@
       window.$docsify = {
         name: 'sddp.io',
         repo: 'https://github.com/ChadBailey/sddp.io/',
-        homepage: 'about.md',
+        homepage: 'intro.md',
+        logo: '/_media/SDDP_Logo_Small_v3.1_io_xp.png',
         auto2top: true,
         loadSidebar: true,
         notFoundPage: true,
@@ -60,11 +61,17 @@
         ],
       }
     </script>
-    <!-- Docsify v4 -->
+    <!-- Docsify -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- Search first-party plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- Polyfill necessary for themes to work on some browsers -->
     <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+    <!-- Pagination third-party plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- Copy code third-party plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <!-- Image zoom third-party plugin -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   </body>
 </html>

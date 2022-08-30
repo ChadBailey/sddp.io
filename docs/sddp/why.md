@@ -1,4 +1,9 @@
+![The Steam Deck Documentation Project](../_media/SDDP_Logo_v3.1_xp.png)
+
 # Why sddp.io exists
+
+!> :construction: This page is **under construction**, expect frequent major
+updates and corrections until this banner is removed. :construction:
 
 Though it may not look like it, this is a highly condensed version of the story.
 Perhaps someday I will share my full story…
