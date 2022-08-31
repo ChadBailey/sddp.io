@@ -1,5 +1,11 @@
 ![The Steam Deck Documentation Project](_media/SDDP_Logo_v3.1_xp.png)
 
+# :exclamation: :question: :warning: Website not yet launched
+
+How did you end up here? Terribly sorry, this website is still under
+construction and isn't meant to be used by the general public just yet.
+Hopefully soon™ this will change.
+
 # Welcome to SDDP
 
 > SDDP is your one stop shop for the highest quality Steam Deck information on
